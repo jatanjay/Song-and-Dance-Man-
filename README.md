@@ -1,8 +1,8 @@
-# <div align="center">Song and Dance Man</div>
-##### <div align="center"> author : Jatan Pandya </div> 
+# Song and Dance Man
+##### author : Jatan Pandya  
 
-## <div align="center"> A corpus based analysis on the works of Bob Dylan from the year 1960 to 2020 </div>
-## <div align="center"> ![Dylan](https://mancunion.com/wp-content/uploads/sites/6/bob-dylan-writing.jpg) </div>
+## A corpus based analysis on the works of Bob Dylan from the year 1960 to 2020
+## ![Dylan](https://mancunion.com/wp-content/uploads/sites/6/bob-dylan-writing.jpg)
 
 ## This project aims to analyze works of artist Bob Dylan by diving deep into his works that includes all songs (album releases, singles/EPs, unreleased/outtakes/demos), speeches etc.
 _______________________________________________________________________________________________________________________________
