@@ -1,8 +1,8 @@
-# Song and Dance Man
+# Song and Dance Man 
 ##### author : Jatan Pandya  
-
+##### [Project (Notebook)](https://github.com/jatanjay/SongandDanceMan/blob/main/SongandDanceMan.ipynb)
 ## A corpus based analysis on the works of Bob Dylan from the year 1960 to 2020
-## ![Dylan](https://mancunion.com/wp-content/uploads/sites/6/bob-dylan-writing.jpg)
+## ![Dylan](meta/Dylan.jpg)
 
 ## This project aims to analyze works of artist Bob Dylan by diving deep into his works that includes all songs (album releases, singles/EPs, unreleased/outtakes/demos), speeches etc.
 _______________________________________________________________________________________________________________________________
