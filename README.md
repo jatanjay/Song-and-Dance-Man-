@@ -34,5 +34,5 @@ ________________________________
 #### 7\. Are Dylan's songs losing complexity as the years go by? (Sentence segmentation, Automated Readability Index (ARI))
 #### 8\. Which years were sad for Dylan and vice versa? (Sentiment Analysis)
 
-#### <div align="right"> Bonus : 2:14 at https://bit.ly/2KPGSpQ</div>
+#### Bonus : 2:14 at https://bit.ly/2KPGSpQ
 _______________________________________________________________________________________________________________________________
